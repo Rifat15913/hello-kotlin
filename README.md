@@ -1,3 +1,3 @@
 # hello-kotlin
 
-This project is explore core Kotlin things.
+This project is to explore core Kotlin things.
