@@ -7,7 +7,9 @@ This project is to explore core Kotlin things.
 it mainly focused on  basic variable declaration and data types of kotlin language.
 the purpose of java class is to compare with kotlin.
 
-**PPT link** : https://docs.google.com/presentation/d/1f3sL42gpQGVz2OtUylgNUlF8OjVPcU5SyyipqmD5EM4/edit?usp=sharing
+**PPT link** :
+
+ https://docs.google.com/presentation/d/1f3sL42gpQGVz2OtUylgNUlF8OjVPcU5SyyipqmD5EM4/edit?usp=sharing
 
 **Resources:**
 
