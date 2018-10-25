@@ -1,4 +1,4 @@
-package lesson01;
+package lesson01.variablesanddatatypes;
 
 import java.util.ArrayList;
 import java.util.List;

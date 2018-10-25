@@ -1,4 +1,4 @@
-package lesson01
+package lesson01.variablesanddatatypes
 
 var fullname: String = ""
 fun main(args: Array<String>) {
