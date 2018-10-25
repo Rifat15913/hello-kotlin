@@ -37,11 +37,13 @@ object NumberUtil {
         return sum
     }
 
-    fun sum(vararg numbers: Int, add: (Int, Int) -> Int): Int {
+    fun sum(vararg numbers: Int, add: ((Int, Int) -> Int)?): Int {
         var sum = 0
 
         for (currentNumber in numbers) {
-            sum = add(sum, currentNumber)
+            if (add != null) {
+                sum = add(sum, currentNumber)
+            }
         }
 
         return sum
