@@ -10,6 +10,13 @@ fun main(args: Array<String>) {
 
 
     // Using lambda
+    // 1st approach
     summation = NumberUtil.sum(5, 6, 7, add = { a, b -> a + b })
+    NumberUtil.printNumber(summation)
+
+    // 2nd approach
+    summation = NumberUtil.sum(5, 6, 7) { a, b ->
+        a + b
+    }
     NumberUtil.printNumber(summation)
 }
