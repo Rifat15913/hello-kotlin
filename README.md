@@ -11,10 +11,8 @@ the purpose of java class is to compare with kotlin.
 
 **Resources:**
 
-Link 1:
-
 https://code.tutsplus.com/tutorials/kotlin-from-scratch-variables-basic-types-arrays-type-inference-and-comments--cms-29328
 
-Link 2:
-
 https://itnext.io/kotlin-basics-types-any-unit-and-nothing-674cc858035
+
+https://kotlinlang.org/docs/reference/null-safety.html
