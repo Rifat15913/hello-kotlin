@@ -7,7 +7,7 @@ object NumberUtil {
         return firstNumber + secondNumber
     }
 
-    fun printNumberWithUnitReturnType(number: Int = 0): Unit {
+    fun printNumberWithUnitReturnType(number: Int = 159): Unit {
         print(number)
         println()
     }
